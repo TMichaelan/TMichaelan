@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @TMichaelan
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
